@@ -1,0 +1,46 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px whitesmoke;
+    background-color: gray;
+}
+.heading_div{
+    float: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px white;
+}
+.heading_div2{
+    font-size: 18px;
+    background-color: crimson;
+}
+body{
+    background-image: url("https://image.shutterstock.com/image-vector/seamless-background-kid-drawing-family-260nw-653526490.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.result_para_tag
+{
+  box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+  background-color: crimson;
+}
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+ }
+  canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+    margin-top: 150px; 
+  }
